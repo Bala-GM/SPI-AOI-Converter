@@ -4,7 +4,7 @@ Date of Created : 17/April/2022 sunday time 9.57 PM
 
 SPI & AOI KOHYOUNG AND VITROX MACHINE CAD CONVERSION IN EXCEL VBA PROGRAM DEV. 2022
 
-1. while copy pasting and filtering data where some how some data that have been miss 
+1. while copy pasting and filtering data where some how some data that have been missed.
 2. while converting the xy data to 90 deg. may be mistaken changed the value.
 3. to avoid that kindy off issue i have created this file.
 4. so create the convesion using macro program in excel.
